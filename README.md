@@ -1,1 +1,1 @@
-This is the few basics program in cpp.
+There are the few basics program in cpp.
